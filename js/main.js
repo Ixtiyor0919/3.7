@@ -17,10 +17,6 @@ elForm.addEventListener('submit', (evt) => {
     }else if(elUsdSelect.value == "euro") {
         elResultBox.textContent = `${(elNameInput.value / (euro)).toFixed(0)} €`;
     };
-    // elResultBox.textContent =  elNameInput.value;
-    // elResultBox.textContent = elUsdSelect.value;
-    // var totalExpance = (elNameInput.value / elUsdSelect.value).toFixed(0);
-    // elResultBox.textContent = totalExpance;
     elNameInput.value = '';
     elUsdSelect.value = '';
 })
