@@ -7,7 +7,7 @@ body {
 }
 .mains {
     filter: drop-shadow(4px 6px 4px #d8dfdf);
-    background-image: url(../../images/currency-main-image.jpg);
+    background-image: url(../../images/currency-main-image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -21,6 +21,7 @@ body {
     color: white;
     background-color: #215eac;
     box-shadow: -2px 2px 3px 3px #4b98d4;
+    outline: none;
 }
 .form__control::placeholder {
     color: white;
@@ -38,4 +39,10 @@ body {
 }
 .fa-solid {
     color: #818690;
+}
+
+@media screen and (max-width: 500px) {
+    .mains {
+        background-position: -60px;
+    }
 }
