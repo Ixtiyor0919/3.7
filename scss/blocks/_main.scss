@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin-top: 6%;
+    margin-top: 8%;
     height: 50vh;
     border-radius: 20px !important;
 }
@@ -43,6 +43,7 @@ body {
 
 @media screen and (max-width: 500px) {
     .mains {
+        margin-top: 18%;
         background-position: -60px;
     }
 }
