@@ -15,7 +15,6 @@ elForm.addEventListener('submit', (evt) => {
     if(currencyInput <= 0 || isNaN(currencyInput)) {
         elNameInput.style.border = '2px solid white';
         elNameInput.style.background = 'red';
-        elResultBox = '';
     }else {
         elNameInput.style.background = '#1edd1e';
         elNameInput.style.border = '2px solid white';
@@ -28,6 +27,4 @@ elForm.addEventListener('submit', (evt) => {
     }else if(elUsdSelect.value === "euro") {
         elResultBox.textContent = `${(elNameInput.value / (euro)).toFixed(2)} €`;
     };
-    // elNameInput.value = '';
-    // elUsdSelect.value = '';
 })
