@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Дирхам ОАЭ",
+        "code": "AED",
+        "cb_price": "2966.43",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Австралийский доллар",
+        "code": "AUD",
+        "cb_price": "7595.59",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Канадский доллар",
+        "code": "CAD",
+        "cb_price": "8428.86",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Швейцарский франк",
+        "code": "CHF",
+        "cb_price": "11274.82",
+        "nbu_buy_price": "10700.00",
+        "nbu_cell_price": "11900.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Китайский юань",
+        "code": "CNY",
+        "cb_price": "1627.55",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Датская крона",
+        "code": "DKK",
+        "cb_price": "1547.73",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Египетский фунт",
+        "code": "EGP",
+        "cb_price": "580.04",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Евро",
+        "code": "EUR",
+        "cb_price": "11514.88",
+        "nbu_buy_price": "11400.00",
+        "nbu_cell_price": "12150.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Английский фунт стерлингов",
+        "code": "GBP",
+        "cb_price": "13396.62",
+        "nbu_buy_price": "13000.00",
+        "nbu_cell_price": "14000.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Исландская крона",
+        "code": "ISK",
+        "cb_price": "83.38",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Японская иена",
+        "code": "JPY",
+        "cb_price": "80.46",
+        "nbu_buy_price": "70.00",
+        "nbu_cell_price": "95.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Южнокорейский вон",
+        "code": "KRW",
+        "cb_price": "8.43",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Кувейтский динар",
+        "code": "KWD",
+        "cb_price": "35503.39",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Казахстанский тенге",
+        "code": "KZT",
+        "cb_price": "24.26",
+        "nbu_buy_price": "12.00",
+        "nbu_cell_price": "30.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Ливанский фунт",
+        "code": "LBP",
+        "cb_price": "7.21",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Малайзийский ринггит",
+        "code": "MYR",
+        "cb_price": "2477.49",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Норвежская крона",
+        "code": "NOK",
+        "cb_price": "1113.30",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Польский злотый",
+        "code": "PLN",
+        "cb_price": "2481.44",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Российский рубль",
+        "code": "RUB",
+        "cb_price": "199.74",
+        "nbu_buy_price": "165.00",
+        "nbu_cell_price": "205.00",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Шведская крона",
+        "code": "SEK",
+        "cb_price": "1083.97",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Сингапурский доллар",
+        "code": "SGD",
+        "cb_price": "7869.98",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Новая Турецкая лира",
+        "code": "TRY",
+        "cb_price": "628.17",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Украинская гривна",
+        "code": "UAH",
+        "cb_price": "368.75",
+        "nbu_buy_price": "",
+        "nbu_cell_price": "",
+        "date": "22.06.2022 16:00:01"
+    },
+    {
+        "title": "Доллар США",
+        "code": "USD",
+        "cb_price": "10895.99",
+        "nbu_buy_price": "10890.00",
+        "nbu_cell_price": "10950.00",
+        "date": "22.06.2022 16:00:01"
+    }
+]
