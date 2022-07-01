@@ -24,6 +24,9 @@ body {
     box-shadow: -2px 2px 3px 3px #4b98d4;
     outline: none;
 }
+.form__select {
+    width: 25% !important;
+}
 .form__control::placeholder {
     color: white;
 }
@@ -33,18 +36,25 @@ body {
 .box {
     width: 80% !important;
 }
-.valyuta {
+.valyuta-usd, .valyuta-rubl, .valyuta-euro {
     font-weight: 600;
     font-size: 18px;
-    color: #215eac;
+    color: #3F51B5;
 }
 .fa-solid {
-    color: #818690;
+    color: #424242;
+}
+.valyuta-tranlate {
+    font-weight: 700;
+    color: #424242 !important;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
     .mains {
         margin-top: 20%;
         background-position: -60px;
+    }
+    .form__select  {
+        width: 100% !important;
     }
 }
