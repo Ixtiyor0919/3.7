@@ -39,7 +39,7 @@
                 <a class="nav-link disabled">Disabled</a>
               </li>
             </ul>
-            <div class="d-flex me-auto align-items-center">
+            <div class="d-flex me-3 align-items-center">
               <i class="fa-solid fa-dollar-sign"></i>
               <span class="valyuta-usd ms-1 me-3"></span>
               <i class="fa-solid fa-ruble-sign"></i>
@@ -47,6 +47,7 @@
               <i class="fa-solid fa-euro-sign"></i>
               <span class="valyuta-euro ms-1"></span>
             </div>
+            <div style="font-size: 14px;" class="data me-auto text-secondary fw-bold"></div>
             <form class="d-flex">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-light" type="submit">Search</button>
@@ -57,7 +58,12 @@
     <div class="container-xxl container-sm p-5 mains box">
       <form class="form d-xxl-flex justify-content-xxl-between flex-xxl-row flex-md-column align-items-center row row-cols-sm-1 justify-md-start">
           <input type="text" class="form__control col-xxl-3  col-md-6 p-2 mb-3" placeholder="Enter funds">
-          <div class="form__resultbox card p-2 col-xxl-3 text-start col-md-6 mb-3">Foreign course</div>
+          <div class="form__resultbox p-2 col-xxl-3 d-flex align-items-center text-start col-md-6 mb-3">
+            <span class="ms-1 me-3 result-valyuta">
+              Foreign course
+            </span>
+            <!-- <i class="fa-solid fa-dollar-sign"></i> -->
+          </div>
           <select name="usd__select" id="usd__select" class="form__select form-select bg-info text-light col-xxl-3
            col-md-6 p-2 mb-3">
               <option value="1"  disabled selected>Curreny</option>
