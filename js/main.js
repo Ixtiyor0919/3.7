@@ -18,7 +18,6 @@ getValyuta().then(result => {
         if(item.code === "EUR") {
             euro.textContent = item.cb_price
         }
-        console.log(item);
     })
 })
 
